@@ -85,6 +85,11 @@ body .container{
     font-weight: 300;
     font-size: 2rem;
 }
+#jumbo .info .order span a{
+    text-decoration: none;
+    color: #50524B;
+    cursor: pointer;
+}
 
 #jumbo .info .payment{
     display: flex;
